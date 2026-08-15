@@ -1,1 +1,1 @@
-# frind_quiz
+# saleh-friend
